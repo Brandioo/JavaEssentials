@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f0bda656-918d-494e-a4be-0ff36b3814f9" name="Changes" comment="Java Essentials Code Files">
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Learning_Java/Ex_Files_Learning_Java/Exercise Files/01_04e/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Learning_Java/Ex_Files_Learning_Java/Exercise Files/01_04e/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Learning_Java/Ex_Files_Learning_Java/Exercise Files/01_05b/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Learning_Java/Ex_Files_Learning_Java/Exercise Files/01_05b/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Learning_Java/Ex_Files_Learning_Java/Exercise Files/01_05e/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Learning_Java/Ex_Files_Learning_Java/Exercise Files/01_05e/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Learning_Java/Ex_Files_Learning_Java/Exercise Files/01_06e/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Learning_Java/Ex_Files_Learning_Java/Exercise Files/01_06e/learning-java-2825378.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Learning_Java/Ex_Files_Learning_Java/Exercise Files/01_07b/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Learning_Java/Ex_Files_Learning_Java/Exercise Files/01_07b/learning-java-2825378.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Learning_Java/Ex_Files_Learning_Java/Exercise Files/01_07e/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Learning_Java/Ex_Files_Learning_Java/Exercise Files/01_07e/learning-java-2825378.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Learning_Java/Ex_Files_Learning_Java/Exercise Files/01_07e/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Learning_Java/Ex_Files_Learning_Java/Exercise Files/02_02b/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Learning_Java/Ex_Files_Learning_Java/Exercise Files/02_02b/learning-java-2825378.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Learning_Java/Ex_Files_Learning_Java/Exercise Files/02_02b/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Learning_Java/Ex_Files_Learning_Java/Exercise Files/02_02e/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Learning_Java/Ex_Files_Learning_Java/Exercise Files/02_02e/learning-java-2825378.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Learning_Java/Ex_Files_Learning_Java/Exercise Files/02_02e/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Learning_Java/Ex_Files_Learning_Java/Exercise Files/02_03b/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Learning_Java/Ex_Files_Learning_Java/Exercise Files/02_03b/learning-java-2825378.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Learning_Java/Ex_Files_Learning_Java/Exercise Files/02_03b/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Learning_Java/Ex_Files_Learning_Java/Exercise Files/02_03e/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Learning_Java/Ex_Files_Learning_Java/Exercise Files/02_03e/learning-java-2825378.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Learning_Java/Ex_Files_Learning_Java/Exercise Files/02_03e/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Learning_Java/Ex_Files_Learning_Java/Exercise Files/02_04b/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Learning_Java/Ex_Files_Learning_Java/Exercise Files/02_04b/learning-java-2825378.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Learning_Java/Ex_Files_Learning_Java/Exercise Files/02_04b/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Learning_Java/Ex_Files_Learning_Java/Exercise Files/02_04e/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Learning_Java/Ex_Files_Learning_Java/Exercise Files/02_04e/learning-java-2825378.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Learning_Java/Ex_Files_Learning_Java/Exercise Files/02_04e/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Learning_Java/Ex_Files_Learning_Java/Exercise Files/02_05b/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Learning_Java/Ex_Files_Learning_Java/Exercise Files/02_05b/learning-java-2825378.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Learning_Java/Ex_Files_Learning_Java/Exercise Files/02_05b/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Learning_Java/Ex_Files_Learning_Java/Exercise Files/02_05e/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Learning_Java/Ex_Files_Learning_Java/Exercise Files/02_05e/learning-java-2825378.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Learning_Java/Ex_Files_Learning_Java/Exercise Files/02_05e/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Learning_Java/Ex_Files_Learning_Java/Exercise Files/02_06b/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Learning_Java/Ex_Files_Learning_Java/Exercise Files/02_06b/learning-java-2825378.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Learning_Java/Ex_Files_Learning_Java/Exercise Files/02_06b/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Learning_Java/Ex_Files_Learning_Java/Exercise Files/02_06e/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Learning_Java/Ex_Files_Learning_Java/Exercise Files/02_06e/learning-java-2825378.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Learning_Java/Ex_Files_Learning_Java/Exercise Files/02_06e/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Learning_Java/Ex_Files_Learning_Java/Exercise Files/03_03b/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Learning_Java/Ex_Files_Learning_Java/Exercise Files/03_03b/learning-java-2825378.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Learning_Java/Ex_Files_Learning_Java/Exercise Files/03_03b/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Learning_Java/Ex_Files_Learning_Java/Exercise Files/03_03e/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Learning_Java/Ex_Files_Learning_Java/Exercise Files/03_03e/learning-java-2825378.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Learning_Java/Ex_Files_Learning_Java/Exercise Files/03_03e/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Learning_Java/Ex_Files_Learning_Java/Exercise Files/03_06b/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Learning_Java/Ex_Files_Learning_Java/Exercise Files/03_06b/learning-java-2825378.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Learning_Java/Ex_Files_Learning_Java/Exercise Files/03_06b/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Learning_Java/Ex_Files_Learning_Java/Exercise Files/03_06e/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Learning_Java/Ex_Files_Learning_Java/Exercise Files/03_06e/learning-java-2825378.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Learning_Java/Ex_Files_Learning_Java/Exercise Files/03_06e/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Learning_Java/Ex_Files_Learning_Java/Exercise Files/03_07b/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Learning_Java/Ex_Files_Learning_Java/Exercise Files/03_07b/learning-java-2825378.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Learning_Java/Ex_Files_Learning_Java/Exercise Files/03_07b/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Learning_Java/Ex_Files_Learning_Java/Exercise Files/03_08b/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Learning_Java/Ex_Files_Learning_Java/Exercise Files/03_08b/learning-java-2825378.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Learning_Java/Ex_Files_Learning_Java/Exercise Files/03_08b/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Learning_Java/Ex_Files_Learning_Java/Exercise Files/03_08e/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Learning_Java/Ex_Files_Learning_Java/Exercise Files/03_08e/learning-java-2825378.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Learning_Java/Ex_Files_Learning_Java/Exercise Files/03_08e/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Learning_Java/Ex_Files_Learning_Java/Exercise Files/04_01b/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Learning_Java/Ex_Files_Learning_Java/Exercise Files/04_01b/learning-java-2825378.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Learning_Java/Ex_Files_Learning_Java/Exercise Files/04_01b/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Learning_Java/Ex_Files_Learning_Java/Exercise Files/04_01e/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Learning_Java/Ex_Files_Learning_Java/Exercise Files/04_01e/learning-java-2825378.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Learning_Java/Ex_Files_Learning_Java/Exercise Files/04_01e/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Learning_Java/Ex_Files_Learning_Java/Exercise Files/04_02b/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Learning_Java/Ex_Files_Learning_Java/Exercise Files/04_02b/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Learning_Java/Ex_Files_Learning_Java/Exercise Files/04_02e/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Learning_Java/Ex_Files_Learning_Java/Exercise Files/05_8e/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Learning_Java/Ex_Files_Learning_Java/Exercise Files/05_8e/learning-java-2825378.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Learning_Java/Ex_Files_Learning_Java/Exercise Files/05_8e/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Managing_Threads_Java/Ex_Files_Managing_Threads_Java/Exercise Files/Ch01/01_02/Threads_01_02/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Managing_Threads_Java/Ex_Files_Managing_Threads_Java/Exercise Files/Ch01/01_02/Threads_01_02/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Managing_Threads_Java/Ex_Files_Managing_Threads_Java/Exercise Files/Ch01/01_02/Threads_01_02/nbproject/build-impl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Managing_Threads_Java/Ex_Files_Managing_Threads_Java/Exercise Files/Ch01/01_02/Threads_01_02/nbproject/genfiles.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Managing_Threads_Java/Ex_Files_Managing_Threads_Java/Exercise Files/Ch01/01_02/Threads_01_02/nbproject/private/private.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Managing_Threads_Java/Ex_Files_Managing_Threads_Java/Exercise Files/Ch01/01_02/Threads_01_02/nbproject/private/private.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Managing_Threads_Java/Ex_Files_Managing_Threads_Java/Exercise Files/Ch01/01_02/Threads_01_02/nbproject/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Managing_Threads_Java/Ex_Files_Managing_Threads_Java/Exercise Files/Ch01/01_02/Threads_01_02/nbproject/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Managing_Threads_Java/Ex_Files_Managing_Threads_Java/Exercise Files/Ch01/01_02/Threads_01_02/src/threads_01_02/HelloRunnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Managing_Threads_Java/Ex_Files_Managing_Threads_Java/Exercise Files/Ch01/01_02/Threads_01_02/src/threads_01_02/HelloThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Managing_Threads_Java/Ex_Files_Managing_Threads_Java/Exercise Files/Ch01/01_02/Threads_01_02/src/threads_01_02/Threads_01_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Managing_Threads_Java/Ex_Files_Managing_Threads_Java/Exercise Files/Ch01/01_03/Threads_01_03/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Managing_Threads_Java/Ex_Files_Managing_Threads_Java/Exercise Files/Ch01/01_03/Threads_01_03/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Managing_Threads_Java/Ex_Files_Managing_Threads_Java/Exercise Files/Ch01/01_03/Threads_01_03/nbproject/build-impl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Managing_Threads_Java/Ex_Files_Managing_Threads_Java/Exercise Files/Ch01/01_03/Threads_01_03/nbproject/genfiles.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Managing_Threads_Java/Ex_Files_Managing_Threads_Java/Exercise Files/Ch01/01_03/Threads_01_03/nbproject/private/private.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Managing_Threads_Java/Ex_Files_Managing_Threads_Java/Exercise Files/Ch01/01_03/Threads_01_03/nbproject/private/private.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Managing_Threads_Java/Ex_Files_Managing_Threads_Java/Exercise Files/Ch01/01_03/Threads_01_03/nbproject/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Managing_Threads_Java/Ex_Files_Managing_Threads_Java/Exercise Files/Ch01/01_03/Threads_01_03/nbproject/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Managing_Threads_Java/Ex_Files_Managing_Threads_Java/Exercise Files/Ch01/01_03/Threads_01_03/src/threads_01_03/Threads_01_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Managing_Threads_Java/Ex_Files_Managing_Threads_Java/Exercise Files/Ch01/01_04/Threads_01_04/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Managing_Threads_Java/Ex_Files_Managing_Threads_Java/Exercise Files/Ch01/01_04/Threads_01_04/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Managing_Threads_Java/Ex_Files_Managing_Threads_Java/Exercise Files/Ch01/01_04/Threads_01_04/nbproject/build-impl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Managing_Threads_Java/Ex_Files_Managing_Threads_Java/Exercise Files/Ch01/01_04/Threads_01_04/nbproject/genfiles.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Managing_Threads_Java/Ex_Files_Managing_Threads_Java/Exercise Files/Ch01/01_04/Threads_01_04/nbproject/private/private.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Managing_Threads_Java/Ex_Files_Managing_Threads_Java/Exercise Files/Ch01/01_04/Threads_01_04/nbproject/private/private.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Managing_Threads_Java/Ex_Files_Managing_Threads_Java/Exercise Files/Ch01/01_04/Threads_01_04/nbproject/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Managing_Threads_Java/Ex_Files_Managing_Threads_Java/Exercise Files/Ch01/01_04/Threads_01_04/nbproject/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Managing_Threads_Java/Ex_Files_Managing_Threads_Java/Exercise Files/Ch01/01_04/Threads_01_04/src/threads_01_04/TestJoinClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Managing_Threads_Java/Ex_Files_Managing_Threads_Java/Exercise Files/Ch01/01_04/Threads_01_04/src/threads_01_04/ThreadJoinExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Managing_Threads_Java/Ex_Files_Managing_Threads_Java/Exercise Files/Ch02/02_01/Threads_02_01/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Managing_Threads_Java/Ex_Files_Managing_Threads_Java/Exercise Files/Ch02/02_01/Threads_02_01/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Managing_Threads_Java/Ex_Files_Managing_Threads_Java/Exercise Files/Ch02/02_01/Threads_02_01/nbproject/build-impl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Managing_Threads_Java/Ex_Files_Managing_Threads_Java/Exercise Files/Ch02/02_01/Threads_02_01/nbproject/genfiles.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Managing_Threads_Java/Ex_Files_Managing_Threads_Java/Exercise Files/Ch02/02_01/Threads_02_01/nbproject/private/private.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Managing_Threads_Java/Ex_Files_Managing_Threads_Java/Exercise Files/Ch02/02_01/Threads_02_01/nbproject/private/private.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Managing_Threads_Java/Ex_Files_Managing_Threads_Java/Exercise Files/Ch02/02_01/Threads_02_01/nbproject/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Managing_Threads_Java/Ex_Files_Managing_Threads_Java/Exercise Files/Ch02/02_01/Threads_02_01/nbproject/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Managing_Threads_Java/Ex_Files_Managing_Threads_Java/Exercise Files/Ch02/02_01/Threads_02_01/src/threads_02_01/Threads_02_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Managing_Threads_Java/Ex_Files_Managing_Threads_Java/Exercise Files/Ch02/02_02/Threads_02_02/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Managing_Threads_Java/Ex_Files_Managing_Threads_Java/Exercise Files/Ch02/02_02/Threads_02_02/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Managing_Threads_Java/Ex_Files_Managing_Threads_Java/Exercise Files/Ch02/02_02/Threads_02_02/nbproject/build-impl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Managing_Threads_Java/Ex_Files_Managing_Threads_Java/Exercise Files/Ch02/02_02/Threads_02_02/nbproject/genfiles.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Managing_Threads_Java/Ex_Files_Managing_Threads_Java/Exercise Files/Ch02/02_02/Threads_02_02/nbproject/private/private.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Managing_Threads_Java/Ex_Files_Managing_Threads_Java/Exercise Files/Ch02/02_02/Threads_02_02/nbproject/private/private.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Managing_Threads_Java/Ex_Files_Managing_Threads_Java/Exercise Files/Ch02/02_02/Threads_02_02/nbproject/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Managing_Threads_Java/Ex_Files_Managing_Threads_Java/Exercise Files/Ch02/02_02/Threads_02_02/nbproject/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Managing_Threads_Java/Ex_Files_Managing_Threads_Java/Exercise Files/Ch02/02_02/Threads_02_02/src/threads_02_02/Threads_02_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Managing_Threads_Java/Ex_Files_Managing_Threads_Java/Exercise Files/Ch02/02_03/Threads_02_03/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Managing_Threads_Java/Ex_Files_Managing_Threads_Java/Exercise Files/Ch02/02_03/Threads_02_03/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Managing_Threads_Java/Ex_Files_Managing_Threads_Java/Exercise Files/Ch02/02_03/Threads_02_03/nbproject/build-impl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Managing_Threads_Java/Ex_Files_Managing_Threads_Java/Exercise Files/Ch02/02_03/Threads_02_03/nbproject/genfiles.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Managing_Threads_Java/Ex_Files_Managing_Threads_Java/Exercise Files/Ch02/02_03/Threads_02_03/nbproject/private/private.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Managing_Threads_Java/Ex_Files_Managing_Threads_Java/Exercise Files/Ch02/02_03/Threads_02_03/nbproject/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Managing_Threads_Java/Ex_Files_Managing_Threads_Java/Exercise Files/Ch02/02_03/Threads_02_03/nbproject/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Managing_Threads_Java/Ex_Files_Managing_Threads_Java/Exercise Files/Ch02/02_03/Threads_02_03/src/threads_02_03/ID.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Managing_Threads_Java/Ex_Files_Managing_Threads_Java/Exercise Files/Ch02/02_03/Threads_02_03/src/threads_02_03/Threads_02_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Managing_Threads_Java/Ex_Files_Managing_Threads_Java/Exercise Files/Ch02/02_04/Threads_02_04/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Managing_Threads_Java/Ex_Files_Managing_Threads_Java/Exercise Files/Ch02/02_04/Threads_02_04/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Managing_Threads_Java/Ex_Files_Managing_Threads_Java/Exercise Files/Ch02/02_04/Threads_02_04/nbproject/build-impl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Managing_Threads_Java/Ex_Files_Managing_Threads_Java/Exercise Files/Ch02/02_04/Threads_02_04/nbproject/genfiles.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Managing_Threads_Java/Ex_Files_Managing_Threads_Java/Exercise Files/Ch02/02_04/Threads_02_04/nbproject/private/private.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Managing_Threads_Java/Ex_Files_Managing_Threads_Java/Exercise Files/Ch02/02_04/Threads_02_04/nbproject/private/private.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Managing_Threads_Java/Ex_Files_Managing_Threads_Java/Exercise Files/Ch02/02_04/Threads_02_04/nbproject/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Managing_Threads_Java/Ex_Files_Managing_Threads_Java/Exercise Files/Ch02/02_04/Threads_02_04/nbproject/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Managing_Threads_Java/Ex_Files_Managing_Threads_Java/Exercise Files/Ch02/02_04/Threads_02_04/src/threads_02_04/Countdown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Managing_Threads_Java/Ex_Files_Managing_Threads_Java/Exercise Files/Ch02/02_04/Threads_02_04/src/threads_02_04/CountdownMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Managing_Threads_Java/Ex_Files_Managing_Threads_Java/Exercise Files/Ch02/02_05/Threads_02_05/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Managing_Threads_Java/Ex_Files_Managing_Threads_Java/Exercise Files/Ch02/02_05/Threads_02_05/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Managing_Threads_Java/Ex_Files_Managing_Threads_Java/Exercise Files/Ch02/02_05/Threads_02_05/nbproject/build-impl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Managing_Threads_Java/Ex_Files_Managing_Threads_Java/Exercise Files/Ch02/02_05/Threads_02_05/nbproject/genfiles.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Managing_Threads_Java/Ex_Files_Managing_Threads_Java/Exercise Files/Ch02/02_05/Threads_02_05/nbproject/private/private.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Managing_Threads_Java/Ex_Files_Managing_Threads_Java/Exercise Files/Ch02/02_05/Threads_02_05/nbproject/private/private.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Managing_Threads_Java/Ex_Files_Managing_Threads_Java/Exercise Files/Ch02/02_05/Threads_02_05/nbproject/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Managing_Threads_Java/Ex_Files_Managing_Threads_Java/Exercise Files/Ch02/02_05/Threads_02_05/nbproject/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Managing_Threads_Java/Ex_Files_Managing_Threads_Java/Exercise Files/Ch02/02_05/Threads_02_05/src/threads_02_05/WaitAndNotify.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Managing_Threads_Java/Ex_Files_Managing_Threads_Java/Exercise Files/Ch03/03_02/Threads_03_02/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Managing_Threads_Java/Ex_Files_Managing_Threads_Java/Exercise Files/Ch03/03_02/Threads_03_02/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Managing_Threads_Java/Ex_Files_Managing_Threads_Java/Exercise Files/Ch03/03_02/Threads_03_02/nbproject/build-impl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Managing_Threads_Java/Ex_Files_Managing_Threads_Java/Exercise Files/Ch03/03_02/Threads_03_02/nbproject/genfiles.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Managing_Threads_Java/Ex_Files_Managing_Threads_Java/Exercise Files/Ch03/03_02/Threads_03_02/nbproject/private/private.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Managing_Threads_Java/Ex_Files_Managing_Threads_Java/Exercise Files/Ch03/03_02/Threads_03_02/nbproject/private/private.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Managing_Threads_Java/Ex_Files_Managing_Threads_Java/Exercise Files/Ch03/03_02/Threads_03_02/nbproject/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Managing_Threads_Java/Ex_Files_Managing_Threads_Java/Exercise Files/Ch03/03_02/Threads_03_02/nbproject/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Managing_Threads_Java/Ex_Files_Managing_Threads_Java/Exercise Files/Ch03/03_02/Threads_03_02/src/threads_03_02/Threads_03_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Managing_Threads_Java/Ex_Files_Managing_Threads_Java/Exercise Files/Ch03/03_02/Threads_03_02/src/threads_03_02/WorkerThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Managing_Threads_Java/Ex_Files_Managing_Threads_Java/Exercise Files/Ch03/03_03/Threads_03_03/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Managing_Threads_Java/Ex_Files_Managing_Threads_Java/Exercise Files/Ch03/03_03/Threads_03_03/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Managing_Threads_Java/Ex_Files_Managing_Threads_Java/Exercise Files/Ch03/03_03/Threads_03_03/nbproject/build-impl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Managing_Threads_Java/Ex_Files_Managing_Threads_Java/Exercise Files/Ch03/03_03/Threads_03_03/nbproject/genfiles.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Managing_Threads_Java/Ex_Files_Managing_Threads_Java/Exercise Files/Ch03/03_03/Threads_03_03/nbproject/private/private.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Managing_Threads_Java/Ex_Files_Managing_Threads_Java/Exercise Files/Ch03/03_03/Threads_03_03/nbproject/private/private.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Managing_Threads_Java/Ex_Files_Managing_Threads_Java/Exercise Files/Ch03/03_03/Threads_03_03/nbproject/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Managing_Threads_Java/Ex_Files_Managing_Threads_Java/Exercise Files/Ch03/03_03/Threads_03_03/nbproject/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Managing_Threads_Java/Ex_Files_Managing_Threads_Java/Exercise Files/Ch03/03_03/Threads_03_03/src/threads_03_03/Threads_03_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Managing_Threads_Java/Ex_Files_Managing_Threads_Java/Exercise Files/Ch03/03_03/Threads_03_03/src/threads_03_03/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_RESTful_Web_Services/Ex_Files_RESTful_Web_Services/Exercise files/CH1/01_04/Begin/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_RESTful_Web_Services/Ex_Files_RESTful_Web_Services/Exercise files/CH1/01_04/Begin/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_RESTful_Web_Services/Ex_Files_RESTful_Web_Services/Exercise files/CH1/01_04/Begin/config.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_RESTful_Web_Services/Ex_Files_RESTful_Web_Services/Exercise files/CH5/dropwizard-master/.codeclimate.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_RESTful_Web_Services/Ex_Files_RESTful_Web_Services/Exercise files/CH5/dropwizard-master/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_RESTful_Web_Services/Ex_Files_RESTful_Web_Services/Exercise files/CH5/dropwizard-master/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_RESTful_Web_Services/Ex_Files_RESTful_Web_Services/Exercise files/CH5/dropwizard-master/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_RESTful_Web_Services/Ex_Files_RESTful_Web_Services/Exercise files/CH5/dropwizard-master/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_RESTful_Web_Services/Ex_Files_RESTful_Web_Services/Exercise files/CH5/dropwizard-master/CONTRIBUTING.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_RESTful_Web_Services/Ex_Files_RESTful_Web_Services/Exercise files/CH5/dropwizard-master/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_RESTful_Web_Services/Ex_Files_RESTful_Web_Services/Exercise files/CH5/dropwizard-master/NOTICE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_RESTful_Web_Services/Ex_Files_RESTful_Web_Services/Exercise files/CH5/dropwizard-master/PULL_REQUEST_TEMPLATE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_RESTful_Web_Services/Ex_Files_RESTful_Web_Services/Exercise files/CH5/dropwizard-master/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_RESTful_Web_Services/Ex_Files_RESTful_Web_Services/Exercise files/CH5/dropwizard-master/RELEASES.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_RESTful_Web_Services/Ex_Files_RESTful_Web_Services/Exercise files/CH5/dropwizard-master/SECURITY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_RESTful_Web_Services/Ex_Files_RESTful_Web_Services/Exercise files/CH5/dropwizard-master/appveyor.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_RESTful_Web_Services/Ex_Files_RESTful_Web_Services/Exercise files/CH5/dropwizard-master/dropwizard-core/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_RESTful_Web_Services/Ex_Files_RESTful_Web_Services/Exercise files/CH5/dropwizard-master/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_RESTful_Web_Services/Ex_Files_RESTful_Web_Services/Exercise files/CH5/dropwizard-master/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_RESTful_Web_Services/Ex_Files_RESTful_Web_Services/Exercise files/CH5/dropwizard-master/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_RESTful_Web_Services/Ex_Files_RESTful_Web_Services/Exercise files/CH5/dropwizard-master/prepare_docs.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Secure_Coding_in_Java/Ex_Files_Secure_Coding_in_Java/Exercise Files/CH01/01_04/01_04_Begin/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Secure_Coding_in_Java/Ex_Files_Secure_Coding_in_Java/Exercise Files/CH01/01_04/01_04_Begin/src/main/java/com/frankmoley/lil/security/data/President.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Secure_Coding_in_Java/Ex_Files_Secure_Coding_in_Java/Exercise Files/CH01/01_04/01_04_Begin/src/main/java/com/frankmoley/lil/security/data/PresidentDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Secure_Coding_in_Java/Ex_Files_Secure_Coding_in_Java/Exercise Files/CH01/01_04/01_04_Begin/src/main/java/com/frankmoley/lil/security/util/DatabaseUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Secure_Coding_in_Java/Ex_Files_Secure_Coding_in_Java/Exercise Files/CH01/01_04/01_04_Begin/src/main/resources/sql/data.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Secure_Coding_in_Java/Ex_Files_Secure_Coding_in_Java/Exercise Files/CH01/01_04/01_04_Begin/src/main/resources/sql/schema.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Secure_Coding_in_Java/Ex_Files_Secure_Coding_in_Java/Exercise Files/CH01/01_05/01_05_End/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Secure_Coding_in_Java/Ex_Files_Secure_Coding_in_Java/Exercise Files/CH01/01_05/01_05_End/src/main/java/com/frankmoley/lil/security/data/President.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Secure_Coding_in_Java/Ex_Files_Secure_Coding_in_Java/Exercise Files/CH01/01_05/01_05_End/src/main/java/com/frankmoley/lil/security/data/PresidentDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Secure_Coding_in_Java/Ex_Files_Secure_Coding_in_Java/Exercise Files/CH01/01_05/01_05_End/src/main/java/com/frankmoley/lil/security/util/DatabaseUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Secure_Coding_in_Java/Ex_Files_Secure_Coding_in_Java/Exercise Files/CH01/01_05/01_05_End/src/main/resources/sql/data.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Secure_Coding_in_Java/Ex_Files_Secure_Coding_in_Java/Exercise Files/CH01/01_05/01_05_End/src/main/resources/sql/schema.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Secure_Coding_in_Java/Ex_Files_Secure_Coding_in_Java/Exercise Files/CH01/01_05/01_05_End/src/test/java/com/frankmoley/lil/security/data/PresidentDAOTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Secure_Coding_in_Java/Ex_Files_Secure_Coding_in_Java/Exercise Files/CH02/02_04/Begin/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Secure_Coding_in_Java/Ex_Files_Secure_Coding_in_Java/Exercise Files/CH02/02_04/Begin/src/main/java/com/frankmoley/lil/security/data/President.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Secure_Coding_in_Java/Ex_Files_Secure_Coding_in_Java/Exercise Files/CH02/02_04/Begin/src/main/java/com/frankmoley/lil/security/data/PresidentDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Secure_Coding_in_Java/Ex_Files_Secure_Coding_in_Java/Exercise Files/CH02/02_04/Begin/src/main/java/com/frankmoley/lil/security/util/DatabaseUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Secure_Coding_in_Java/Ex_Files_Secure_Coding_in_Java/Exercise Files/CH02/02_04/Begin/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Secure_Coding_in_Java/Ex_Files_Secure_Coding_in_Java/Exercise Files/CH02/02_04/Begin/src/main/resources/sql/data.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Secure_Coding_in_Java/Ex_Files_Secure_Coding_in_Java/Exercise Files/CH02/02_04/Begin/src/main/resources/sql/schema.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Secure_Coding_in_Java/Ex_Files_Secure_Coding_in_Java/Exercise Files/CH02/02_04/Begin/src/test/java/com/frankmoley/lil/security/data/PresidentDAOTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Secure_Coding_in_Java/Ex_Files_Secure_Coding_in_Java/Exercise Files/CH02/02_05/End/src/main/java/com/frankmoley/lil/security/data/President.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Secure_Coding_in_Java/Ex_Files_Secure_Coding_in_Java/Exercise Files/CH02/02_05/End/src/main/java/com/frankmoley/lil/security/data/PresidentDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Secure_Coding_in_Java/Ex_Files_Secure_Coding_in_Java/Exercise Files/CH02/02_05/End/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Secure_Coding_in_Java/Ex_Files_Secure_Coding_in_Java/Exercise Files/CH02/02_05/End/src/main/resources/sql/data.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaessentials/JavaEssentialsLinkedinCourse/Ex_Files_Secure_Coding_in_Java/Ex_Files_Secure_Coding_in_Java/Exercise Files/CH02/02_05/End/src/main/resources/sql/schema.sql" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/javaessentials" />
+  </component>
+  <component name="ProjectId" id="2N4wXsVS6rElFvx0dI1n5cw1Ehi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="company" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/javaessentials" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\BrandCitozi\IdeaProjects\JavaEssentials\javaessentials" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="JavaEssentials" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f0bda656-918d-494e-a4be-0ff36b3814f9" name="Changes" comment="" />
+      <created>1678936706778</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678936706778</updated>
+      <workItem from="1678936707960" duration="207000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
